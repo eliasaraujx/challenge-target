@@ -11,7 +11,7 @@ def fibonacci(num):
         return f"{num} pertence à sequência de Fibonacci"
     else:
         return f"{num} não pertence à sequência de Fibonacci"
-
+ 
 
 num = 21 
 print(fibonacci(num))   
